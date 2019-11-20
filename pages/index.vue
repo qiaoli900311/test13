@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        template-blank-pc
+        template
       </h1>
       <h2 class="subtitle">
         PC空白模板
