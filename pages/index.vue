@@ -6,7 +6,7 @@
         template
       </h1>
       <h2 class="subtitle">
-        PC空白模板
+        PC空白
       </h2>
       <div class="links">
         <a
